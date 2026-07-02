@@ -56,12 +56,17 @@ Every derivation step must maintain **Rₜ = 1** by explicit orthogonal adaptive
 
 ---
 
-## ⚖️ License
+## License
 
-License terms **MUST BUY**!
+License terms MUST BUY!
 
-**Contact:** kulkunkan@pm  
-**Price:** $5,000
+Licensing
+
+Tiered licensing: Academic ($500), Commercial ($2,500–$5,000), Enterprise (custom)
+
+Contact
+
+kulkunkan@pm
 
 ---
 
